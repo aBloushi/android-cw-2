@@ -1,0 +1,25 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        Num();
+       
+     }
+     public static void Num(){
+         int x =0;
+         for (int i=0 ;i<=10;i++){
+             
+             if(i == 5){
+                 
+             }
+             
+             else{
+                 
+             System.out.println(i);
+              x = x+i;
+             }
+              
+         }
+         System.out.println(x);
+     }
+
+}
